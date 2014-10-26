@@ -74,4 +74,4 @@ class Najnakup {
             return $rp1[sizeof($rp1)-1] == '0' ? '' : $rp1[sizeof($rp1)-1];
         }
     }
-}s here
+}
