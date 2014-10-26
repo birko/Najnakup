@@ -1,7 +1,6 @@
 {
     "name": "birko/najnakup",
-    "type": "php class",
-    "description": "Najnakup support for MiniShop Site",
+    "description": "Najnakup API",
     "keywords": ["birko", "najnakup"], 
     "license": "MIT", 
     "authors": [ 
@@ -11,7 +10,8 @@
         } 
     ],
     "autoload": {
-    },
+        "files": ["Najnakup.php"]
+    }
 
     "target-dir": ""
 }
