@@ -1,0 +1,17 @@
+{
+    "name": "birko/najnakup",
+    "type": "php class",
+    "description": "Najnakup support for MiniShop Site",
+    "keywords": ["birko", "najnakup"], 
+    "license": "MIT", 
+    "authors": [ 
+        { 
+            "name": "Ing. František Bereň", 
+            "email": "birko@live.com" 
+        } 
+    ],
+    "autoload": {
+    },
+
+    "target-dir": ""
+}
